@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Introdution](README.md)
-* [Monotonic Increasing Subsequence](monotonic-increasing-subsequence.md)
+* [Minimum Number of flips to make a string monoincreasing](minimum-number-of-flips-to-make-a-string-monoincreasing.md)
