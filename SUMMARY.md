@@ -11,3 +11,4 @@
 * [A very long and tiring job hunt.](a-very-long-and-tiring-job-hunt..md)
 * [Relocating.](relocating..md)
 * [Finding a new job.](finding-a-new-job..md)
+* [fprintd issues after reinstalling linux](fprintd-issues-after-reinstalling-linux.md)
